@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_Broken_Arrow_Soundtrack_cover"
+		textureFile = "gfx/ba_radio_station_cover.dds"
+		noOfFrames = 2
+	}
+}

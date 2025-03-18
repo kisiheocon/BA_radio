@@ -1,0 +1,595 @@
+music_station = "Broken_Arrow_Soundtrack"
+music = {
+	song = "1_Shattered_Memories"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "2_Eurekan_Opus"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "3_A_Grand_New_Century_For_The_Republic"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "4_Californian_Waltz"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "5_Shadows_Of_The_Past"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "6_And_Ever_We_Fight_On"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "7_Our_Last_Chance"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "8_Turning_Back_The_Clock"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "9_The_Republic_Must_Survive"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "10_Closing_In_On_Mariposa"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "11_The_Dying_Flame_Of_Liberty"
+	chance = {
+		factor = 1
+	}
+}
+
+
+music = {
+	song = "12_The_Cold_Streets_Of_Seattle"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "13_The_Granite_Shepherd"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "14_Ancient_Dockyards"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "15_Our_New_Mission"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "16_Time_Is_Running_Out"
+	chance = {
+		factor = 1
+	}
+}
+
+
+music = {
+	song = "17_Our_New_Home"
+	chance = {
+		factor = 1
+	}
+}
+
+
+music = {
+	song = "18_Long_Days_Bitter_Nights"
+	chance = {
+		factor = 1
+	}
+}
+
+
+music = {
+	song = "19_The_Consequences_Of_Command"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "20_We_Are_Betrayed"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "21_Shady_Sands_Is_Burning"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "22_The_Fall_Of_Arroyo"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "23_Seizing_The_Heavens"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "24_The_Presidents_Bunker"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "25_Whiskey_Hotel_Is_Falling"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "26_Infiltrating_Site_Hotel_Bravo"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "27_March_Of_The_Yakuza"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "28_The_Battle_Rages"
+	chance = {
+		factor = 1
+	}
+}
+
+
+music = {
+	song = "29_Triumph_Of_The_Marine_Corps"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "30_Battle_Of_The_Golden_Gate_Bridge"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "31_Sortie_Over_Alcatraz"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "32_Federal_Fortitude"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "33_Air_Assault_Over_San_Francisco_Bay"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "34_Storming_Coit_Tower"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "35_Street_Fighting_In_San_Fran"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "36_The_Horrors_Of_Camp_Richardson"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "37_The_Hellish_Winters_Of_The_North"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "38_The_Canadian_Great_Purge"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "39_Closing_In_On_New_Reno"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "40_Operation_Polar_Snap"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "41_The_Road_To_Seattle"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "42_Street_Fighting_In_New_Reno"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "43_Planting_The_Flag_Over_The_Space_Needle"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "44_Closing_In_on_Andersons_Stronghold"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "45_Clearing_The_San_Francisco_Rail_Yards"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "46_The_Last_Bastion_Of_The_Immortals_Empire"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "47_Clearing_The_Bunkers_Of_Seattle"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "48_Congressional_Battlegrounds"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "49_Urban_Throwdown"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "50_Footage_Of_A_Forgotten_Age"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "51_Engineered_Brutality"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "52_A_Black_Mark_on_All_Of_Humanity"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "53_Anderson's_Final_Solution"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "54_Reaching_Terminal_Velocity"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "55_The_Heralds_Of_A_New_Age"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "56_Dreaming_Of_The_Future"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "57_Sorrow_Of_The_Californian_Workers"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "58_Ballad_Of_The_Californian_Workers_Union"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "59_A_Coronation_Fit_For_A_President"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "60_Tragedy_Of_Empire"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "61_The_Sacremento_Symphony_Orchestra"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "62_The_Rebirth_Of_The_Public_School_System"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "63_The_Flickering_Hope_Of_Civilization"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "64_The_Unity_Celebration_Parade"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "65_Serranade_Of_The_Next_Generation"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "66_Imperial_Ambience"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "67_Fading_Embers_Of_The_Empire"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "68_Theres_No_Place_Like_Home"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "69_Canadian_Prosperity"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "70_The_Spirit_Of_Brittania_Reborn"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "71_The_Hardships_Of_Famines"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "72_Victorian_Royal_Ball"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "73_A_Ballad_For_The_Dominion"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "74_Hope_For_A_New_Age_And_Empire"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "75_Waltz_Under_A_Victorian_Night"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "76_The_Imperial_Resettlement_Act"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "77_Victory_Ball_In_Vancouver"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "78_We_Wept_When_We_Remembered_Albion"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "79_Sun_Rising_Over_An_Empire_Reborn"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "80_The_Sun_Finally_Sets_On_Manitoba"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "81_Diplomatic_Affairs_Of_Empire"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "82_The_Queens_Royal_Court"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "83_Royal_Employment_Ministry"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "84_The_RAF_Takes_To_The_Skies"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "85_First_Steps_Back_On_Canadian_Soil"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "86_Blood_Stained_Royals"
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "87_Her_Majesty_The_Queen"
+	chance = {
+		factor = 1
+	}
+}

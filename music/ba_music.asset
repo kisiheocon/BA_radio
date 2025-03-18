@@ -1,0 +1,420 @@
+music = {
+	name = "1_Shattered_Memories"
+	file = "1_Shattered_Memories.ogg"
+}
+
+music = {
+	name = "2_Eurekan_Opus"
+	file = "2_Eurekan_Opus.ogg"
+}
+
+music = {
+	name = "3_A_Grand_New_Century_For_The_Republic"
+	file = "3_A_Grand_New_Century_For_The_Republic.ogg"
+}
+
+music = {
+	name = "4_Californian_Waltz"
+	file = "4_Californian_Waltz.ogg"
+}
+
+music = {
+	name = "5_Shadows_Of_The_Past"
+	file = "5_Shadows_Of_The_Past.ogg"
+}
+
+music = {
+	name = "6_And_Ever_We_Fight_On"
+	file = "6_And_Ever_We_Fight_On.ogg"
+}
+
+music = {
+	name = "7_Our_Last_Chance"
+	file = "7_Our_Last_Chance.ogg"
+}
+
+music = {
+	name = "8_Turning_Back_The_Clock"
+	file = "8_Turning_Back_The_Clock.ogg"
+}
+
+music = {
+	name = "9_The_Republic_Must_Survive"
+	file = "9_The_Republic_Must_Survive.ogg"
+}
+
+music = {
+	name = "10_Closing_In_On_Mariposa"
+	file = "10_Closing_In_On_Mariposa.ogg"
+}
+
+music = {
+	name = "11_The_Dying_Flame_Of_Liberty"
+	file = "11_The_Dying_Flame_Of_Liberty.ogg"
+}
+
+music = {
+	name = "12_The_Cold_Streets_Of_Seattle"
+	file = "12_The_Cold_Streets_Of_Seattle.ogg"
+}
+
+music = {
+	name = "13_The_Granite_Shepherd"
+	file = "13_The_Granite_Shepherd.ogg"
+}
+
+music = {
+	name = "14_Ancient_Dockyards"
+	file = "14_Ancient_Dockyards.ogg"
+}
+
+music = {
+	name = "15_Our_New_Mission"
+	file = "15_Our_New_Mission.ogg"
+}
+
+music = {
+	name = "16_Time_Is_Running_Out"
+	file = "16_Time_Is_Running_Out.ogg"
+}
+
+music = {
+	name = "17_Our_New_Home"
+	file = "17_Our_New_Home.ogg"
+}
+
+music = {
+	name = "18_Long_Days_Bitter_Nights"
+	file = "18_Long_Days_Bitter_Nights.ogg"
+}
+
+music = {
+	name = "19_The_Consequences_Of_Command"
+	file = "19_The_Consequences_Of_Command.ogg"
+}
+music = {
+	name = "20_We_Are_Betrayed"
+	file = "20_We_Are_Betrayed.ogg"
+}
+music = {
+	name = "21_Shady_Sands_Is_Burning"
+	file = "21_Shady_Sands_Is_Burning.ogg"
+}
+music = {
+	name = "22_The_Fall_Of_Arroyo"
+	file = "22_The_Fall_Of_Arroyo.ogg"
+}
+music = {
+	name = "23_Seizing_The_Heavens"
+	file = "23_Seizing_The_Heavens.ogg"
+}
+music = {
+	name = "24_The_Presidents_Bunker"
+	file = "24_The_Presidents_Bunker.ogg"
+}
+music = {
+	name = "25_Whiskey_Hotel_Is_Falling"
+	file = "25_Whiskey_Hotel_Is_Falling.ogg"
+}
+music = {
+	name = "26_Infiltrating_Site_Hotel_Bravo"
+	file = "26_Infiltrating_Site_Hotel_Bravo.ogg"
+}
+
+music = {
+	name = "27_March_Of_The_Yakuza"
+	file = "27_March_Of_The_Yakuza.ogg"
+}
+music = {
+	name = "28_The_Battle_Rages"
+	file = "28_The_Battle_Rages.ogg"
+}
+
+music = {
+	name = "29_Triumph_Of_The_Marine_Corps"
+	file = "29_Triumph_Of_The_Marine_Corps.ogg"
+}
+
+music = {
+	name = "30_Battle_Of_The_Golden_Gate_Bridge"
+	file = "30_Battle_Of_The_Golden_Gate_Bridge.ogg"
+}
+
+
+music = {
+	name = "31_Sortie_Over_Alcatraz"
+	file = "31_Sortie_Over_Alcatraz.ogg"
+}
+
+
+music = {
+	name = "32_Federal_Fortitude"
+	file = "32_Federal_Fortitude.ogg"
+}
+
+music = {
+	name = "33_Air_Assault_Over_San_Francisco_Bay"
+	file = "33_Air_Assault_Over_San_Francisco_Bay.ogg"
+}
+
+music = {
+	name = "34_Storming_Coit_Tower"
+	file = "34_Storming_Coit_Tower.ogg"
+}
+
+music = {
+	name = "35_Street_Fighting_In_San_Fran"
+	file = "35_Street_Fighting_In_San_Fran.ogg"
+}
+
+music = {
+	name = "36_The_Horrors_Of_Camp_Richardson"
+	file = "36_The_Horrors_Of_Camp_Richardson.ogg"
+}
+
+
+music = {
+	name = "37_The_Hellish_Winters_Of_The_North"
+	file = "37_The_Hellish_Winters_Of_The_North.ogg"
+}
+
+music = {
+	name = "38_The_Canadian_Great_Purge"
+	file = "38_The_Canadian_Great_Purge.ogg"
+}
+
+
+music = {
+	name = "39_Closing_In_On_New_Reno"
+	file = "39_Closing_In_On_New_Reno.ogg"
+}
+
+
+music = {
+	name = "40_Operation_Polar_Snap"
+	file = "40_Operation_Polar_Snap.ogg"
+}
+
+
+music = {
+	name = "41_The_Road_To_Seattle"
+	file = "41_The_Road_To_Seattle.ogg"
+}
+
+music = {
+	name = "42_Street_Fighting_In_New_Reno"
+	file = "42_Street_Fighting_In_New_Reno.ogg"
+}
+
+
+music = {
+	name = "43_Planting_The_Flag_Over_The_Space_Needle"
+	file = "43_Planting_The_Flag_Over_The_Space_Needle.ogg"
+}
+
+
+
+music = {
+	name = "44_Closing_In_on_Andersons_Stronghold"
+	file = "44_Closing_In_on_Andersons_Stronghold.ogg"
+}
+
+
+
+music = {
+	name = "45_Clearing_The_San_Francisco_Rail_Yards"
+	file = "45_Clearing_The_San_Francisco_Rail_Yards.ogg"
+}
+
+
+
+music = {
+	name = "46_The_Last_Bastion_Of_The_Immortals_Empire"
+	file = "46_The_Last_Bastion_Of_The_Immortals_Empire.ogg"
+}
+
+music = {
+	name = "47_Clearing_The_Bunkers_Of_Seattle"
+	file = "47_Clearing_The_Bunkers_Of_Seattle.ogg"
+}
+
+music = {
+	name = "48_Congressional_Battlegrounds"
+	file = "48_Congressional_Battlegrounds.ogg"
+}
+
+music = {
+	name = "49_Urban_Throwdown"
+	file = "49_Urban_Throwdown.ogg"
+}
+
+music = {
+	name = "50_Footage_Of_A_Forgotten_Age"
+	file = "50_Footage_Of_A_Forgotten_Age.ogg"
+}
+
+music = {
+	name = "51_Engineered_Brutality"
+	file = "51_Engineered_Brutality.ogg"
+}
+
+music = {
+	name = "52_A_Black_Mark_on_All_Of_Humanity"
+	file = "52_A_Black_Mark_on_All_Of_Humanity.ogg"
+}
+
+music = {
+	name = "53_Anderson's_Final_Solution"
+	file = "53_Anderson's_Final_Solution.ogg"
+}
+
+music = {
+	name = "54_Reaching_Terminal_Velocity"
+	file = "54_Reaching_Terminal_Velocity.ogg"
+}
+
+music = {
+	name = "55_The_Heralds_Of_A_New_Age"
+	file = "55_The_Heralds_Of_A_New_Age.ogg"
+}
+
+music = {
+	name = "56_Dreaming_Of_The_Future"
+	file = "56_Dreaming_Of_The_Future.ogg"
+}
+
+music = {
+	name = "57_Sorrow_Of_The_Californian_Workers"
+	file = "57_Sorrow_Of_The_Californian_Workers.ogg"
+}
+
+music = {
+	name = "58_Ballad_Of_The_Californian_Workers_Union"
+	file = "58_Ballad_Of_The_Californian_Workers_Union.ogg"
+}
+
+music = {
+	name = "59_A_Coronation_Fit_For_A_President"
+	file = "59_A_Coronation_Fit_For_A_President.ogg"
+}
+
+music = {
+	name = "60_Tragedy_Of_Empire"
+	file = "60_Tragedy_Of_Empire.ogg"
+}
+
+music = {
+	name = "61_The_Sacremento_Symphony_Orchestra"
+	file = "61_The_Sacremento_Symphony_Orchestra.ogg"
+}
+
+music = {
+	name = "62_The_Rebirth_Of_The_Public_School_System"
+	file = "62_The_Rebirth_Of_The_Public_School_System.ogg"
+}
+
+music = {
+	name = "63_The_Flickering_Hope_Of_Civilization"
+	file = "63_The_Flickering_Hope_Of_Civilization.ogg"
+}
+
+music = {
+	name = "64_The_Unity_Celebration_Parade"
+	file = "64_The_Unity_Celebration_Parade.ogg"
+}
+
+music = {
+	name = "65_Serranade_Of_The_Next_Generation"
+	file = "65_Serranade_Of_The_Next_Generation.ogg"
+}
+
+music = {
+	name = "66_Imperial_Ambience"
+	file = "66_Imperial_Ambience.ogg"
+}
+
+music = {
+	name = "67_Fading_Embers_Of_The_Empire"
+	file = "67_Fading_Embers_Of_The_Empire.ogg"
+}
+
+music = {
+	name = "68_Theres_No_Place_Like_Home"
+	file = "68_Theres_No_Place_Like_Home.ogg"
+}
+music = {
+	name = "69_Canadian_Prosperity"
+	file = "69_Canadian_Prosperity.ogg"
+}
+music = {
+	name = "70_The_Spirit_Of_Brittania_Reborn"
+	file = "70_The_Spirit_Of_Brittania_Reborn.ogg"
+}
+music = {
+	name = "71_The_Hardships_Of_Famines"
+	file = "71_The_Hardships_Of_Famines.ogg"
+}
+music = {
+	name = "72_Victorian_Royal_Ball"
+	file = "72_Victorian_Royal_Ball.ogg"
+}
+music = {
+	name = "73_A_Ballad_For_The_Dominion"
+	file = "73_A_Ballad_For_The_Dominion.ogg"
+}
+music = {
+	name = "74_Hope_For_A_New_Age_And_Empire"
+	file = "74_Hope_For_A_New_Age_And_Empire.ogg"
+}
+music = {
+	name = "75_Waltz_Under_A_Victorian_Night"
+	file = "75_Waltz_Under_A_Victorian_Night.ogg"
+}
+music = {
+	name = "76_The_Imperial_Resettlement_Act"
+	file = "76_The_Imperial_Resettlement_Act.ogg"
+}
+music = {
+	name = "77_Victory_Ball_In_Vancouver"
+	file = "77_Victory_Ball_In_Vancouver.ogg"
+}
+music = {
+	name = "78_We_Wept_When_We_Remembered_Albion"
+	file = "78_We_Wept_When_We_Remembered_Albion.ogg"
+}
+music = {
+	name = "79_Sun_Rising_Over_An_Empire_Reborn"
+	file = "79_Sun_Rising_Over_An_Empire_Reborn.ogg"
+}
+music = {
+	name = "80_The_Sun_Finally_Sets_On_Manitoba"
+	file = "80_The_Sun_Finally_Sets_On_Manitoba.ogg"
+}
+music = {
+	name = "81_Diplomatic_Affairs_Of_Empire"
+	file = "81_Diplomatic_Affairs_Of_Empire.ogg"
+}
+music = {
+	name = "82_The_Queens_Royal_Court"
+	file = "82_The_Queens_Royal_Court.ogg"
+}
+music = {
+	name = "83_Royal_Employment_Ministry"
+	file = "83_Royal_Employment_Ministry.ogg"
+}
+music = {
+	name = "84_The_RAF_Takes_To_The_Skies"
+	file = "84_The_RAF_Takes_To_The_Skies.ogg"
+}
+music = {
+	name = "85_First_Steps_Back_On_Canadian_Soil"
+	file = "85_First_Steps_Back_On_Canadian_Soil.ogg"
+}
+music = {
+	name = "86_Blood_Stained_Royals"
+	file = "86_Blood_Stained_Royals.ogg"
+}
+music = {
+	name = "87_Her_Majesty_The_Queen"
+	file = "87_Her_Majesty_The_Queen.ogg"
+}
