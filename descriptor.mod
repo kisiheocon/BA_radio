@@ -1,8 +1,8 @@
-version="1"
+version="9"
 tags={
 	"Sound"
 }
-picture="Thumbnail.png"
 name="Broken Arrow Soundtrack"
-supported_version="1.16.*"
-remote_file_id="3327271477"
+picture="thumbnail.png"
+supported_version="1.16.7"
+remote_file_id="3486559824"
